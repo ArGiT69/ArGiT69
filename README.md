@@ -21,12 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats-delta-coral-75.vercel.app/api?username=ArGiT69&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true" height="150" alt="github stats" />
   <img src="https://streak-stats.demolab.com?user=ArGiT69&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArGiT69&theme=dracula&no-frame=false&no-bg=true&margin-w=4&column=6" alt="trophy graph" />
+  <img src="https://YOUR_VERCEL_URL/api/top-langs?username=ArGiT69&theme=dracula&hide_border=false&border_radius=5&layout=compact" height="150" alt="top languages" />
 </div>
 
 ###

@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-ffjenuztx-arjit-s-projects2.vercel.app/api?username=ArGiT69&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true" height="150" alt="github stats" />
+  <img src="https://github-readme-stats-delta-coral-75.vercel.app/api?username=ArGiT69&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true" height="150" alt="github stats" />
   <img src="https://streak-stats.demolab.com?user=ArGiT69&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
